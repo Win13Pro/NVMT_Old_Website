@@ -10,3 +10,4 @@ NVMT旧官网(hplay-dev.github.io)<br>
 3.修复html(/html)标签问题<br>
 4.改进链接目标为相对路径<br>
 5.改进文件结构<br>
+6.添加GitHub Pages 至 [ns.nvmt.eu.org](https://ns.nvmt.eu.org)
