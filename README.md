@@ -2,6 +2,7 @@
 NVMT旧官网(hplay-dev.github.io)<br>
 此版本修复改进版，源文件来自@hplay在QQ群发布的源码和密码(密码在文件1分钟内被撤回)<br>
 原作者:[@HPLAY-dev](https://github.com/HPLAY-dev/)<br>
+源文件:./source文件夹<br>
 修复(改进)说明：<br>
 1.修复按钮CSS问题<br>
 2.修复标签不正确书写问题<br>
